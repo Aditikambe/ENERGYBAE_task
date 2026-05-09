@@ -1,0 +1,6 @@
+{
+  "name": "BillParser AI",
+  "description": "An intelligent utility to extract key details like consumer number, load, and amount from electricity bills using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

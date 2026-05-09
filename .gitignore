@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.env.local
+.env.*.local
+.venv/
+venv/
+ENV/
+env/
+.Python
+python.env
+
+# Node / Vite
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+.vite/
+/dist/
+build/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+coverage/
+*.coverage
+coverage.*
+*.egg-info/
+*.eggs/
